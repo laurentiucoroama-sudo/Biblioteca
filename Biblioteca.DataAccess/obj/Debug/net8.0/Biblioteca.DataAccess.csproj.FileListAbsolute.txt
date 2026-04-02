@@ -1,0 +1,15 @@
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\bin\Debug\net8.0\Biblioteca.DataAccess.deps.json
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\bin\Debug\net8.0\Biblioteca.DataAccess.dll
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\bin\Debug\net8.0\Biblioteca.DataAccess.pdb
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\bin\Debug\net8.0\Biblioteca.Models.dll
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\bin\Debug\net8.0\Biblioteca.Models.pdb
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\obj\Debug\net8.0\Biblioteca.DataAccess.csproj.AssemblyReference.cache
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\obj\Debug\net8.0\Biblioteca.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\obj\Debug\net8.0\Biblioteca.DataAccess.AssemblyInfoInputs.cache
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\obj\Debug\net8.0\Biblioteca.DataAccess.AssemblyInfo.cs
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\obj\Debug\net8.0\Biblioteca.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\obj\Debug\net8.0\Bibliote.E441EF66.Up2Date
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\obj\Debug\net8.0\Biblioteca.DataAccess.dll
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\obj\Debug\net8.0\refint\Biblioteca.DataAccess.dll
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\obj\Debug\net8.0\Biblioteca.DataAccess.pdb
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.DataAccess\obj\Debug\net8.0\ref\Biblioteca.DataAccess.dll

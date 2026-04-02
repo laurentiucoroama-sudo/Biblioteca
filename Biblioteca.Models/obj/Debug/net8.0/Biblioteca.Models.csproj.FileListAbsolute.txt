@@ -1,0 +1,11 @@
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.Models\bin\Debug\net8.0\Biblioteca.Models.deps.json
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.Models\bin\Debug\net8.0\Biblioteca.Models.dll
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.Models\bin\Debug\net8.0\Biblioteca.Models.pdb
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.Models\obj\Debug\net8.0\Biblioteca.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.Models\obj\Debug\net8.0\Biblioteca.Models.AssemblyInfoInputs.cache
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.Models\obj\Debug\net8.0\Biblioteca.Models.AssemblyInfo.cs
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.Models\obj\Debug\net8.0\Biblioteca.Models.csproj.CoreCompileInputs.cache
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.Models\obj\Debug\net8.0\Biblioteca.Models.dll
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.Models\obj\Debug\net8.0\refint\Biblioteca.Models.dll
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.Models\obj\Debug\net8.0\Biblioteca.Models.pdb
+C:\Users\Loredana Coroama\Desktop\BibliotecaProiect\Biblioteca.Models\obj\Debug\net8.0\ref\Biblioteca.Models.dll
